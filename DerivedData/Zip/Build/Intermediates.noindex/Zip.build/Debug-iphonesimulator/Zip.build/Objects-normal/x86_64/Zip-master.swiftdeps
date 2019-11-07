@@ -1,0 +1,7 @@
+version: "Apple Swift version 5.1 (swiftlang-1100.0.270.13 clang-1100.0.33.7)"
+options: "bfe45e4368d0ce8ce6887d1c879cdf90"
+build_time: [1573149962, 645848000]
+inputs:
+  "/Users/costar2/Documents/Blip/Zip/Zip/Zip.swift": [1573149954, 37606472]
+  "/Users/costar2/Documents/Blip/Zip/Zip/QuickZip.swift": [1573149954, 37159367]
+  "/Users/costar2/Documents/Blip/Zip/Zip/ZipUtilities.swift": [1573149954, 37836360]

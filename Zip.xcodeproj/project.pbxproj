@@ -71,6 +71,7 @@
 /* End PBXContainerItemProxy section */
 
 /* Begin PBXFileReference section */
+		2786E2CF2374949900106EC7 /* ZipPackage */ = {isa = PBXFileReference; lastKnownFileType = folder; path = ZipPackage; sourceTree = "<group>"; };
 		303B4F6D1E4CBE5000DC1633 /* permissions.zip */ = {isa = PBXFileReference; lastKnownFileType = archive.zip; path = permissions.zip; sourceTree = "<group>"; };
 		305237171E64595700CA46D1 /* unsupported_permissions.zip */ = {isa = PBXFileReference; lastKnownFileType = archive.zip; path = unsupported_permissions.zip; sourceTree = "<group>"; };
 		342545B51CE525B200336074 /* Zip.framework */ = {isa = PBXFileReference; explicitFileType = wrapper.framework; includeInIndex = 0; path = Zip.framework; sourceTree = BUILT_PRODUCTS_DIR; };
@@ -162,6 +163,7 @@
 		347E3A6A1C1DFFB500A11FD3 = {
 			isa = PBXGroup;
 			children = (
+				2786E2CF2374949900106EC7 /* ZipPackage */,
 				347E3A761C1DFFB500A11FD3 /* Zip */,
 				347E3A821C1DFFB500A11FD3 /* ZipTests */,
 				347E3A751C1DFFB500A11FD3 /* Products */,
